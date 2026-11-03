@@ -1,9 +1,9 @@
 ﻿Sistema de Ranking Esportivo (Elo Rating)
 Projeto Final de Introdução à Ciência da Computação I (ICC I)
 Desenvolvido por:
-* Pedro Paulo Silva Santos (N° USP: 16993206)
-* Vinicius Gonzalez (N° USP: 16903897)
-* Julia Lopes Lamarchi (N° USP: 15676110)
+* Pedro Paulo Silva Santos 
+* Vinicius Gonzalez 
+* Julia Lopes Lamarchi 
 Docente: Matheus Machado dos Santos
 ________________
 
